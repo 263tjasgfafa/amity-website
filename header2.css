@@ -1,0 +1,845 @@
+@media all and (max-width:1024px){
+    .fieldset{
+        margin-left: 689px;
+    }
+    .doc{
+        width: 12%;
+    margin-left: 19px;
+    }
+    .fan{
+        width: 100%;
+        margin-left: 19px;
+    }
+    .degree{
+        width: 18%;
+        margin-left: 770px;
+    }
+    .certificate{
+        width: 33%;
+    margin-left: 680px;
+    }
+    .ear{
+        width: 97%;
+    margin-left: 24px;
+    }
+    .nose{
+        width: 97%;
+    margin-left: 24px;
+    }
+    .pin{
+        width: 100%;
+       }
+       .mat{
+        width: 22%;
+        margin-left: 25px;
+       }
+       .img9{
+        width: 100%;
+       }
+       .footer{
+        width: 109%;
+       }
+    
+}
+@media all and (max-width:981px) {
+    .navbar {
+        flex-direction: column;
+        position: sticky;
+
+    }
+
+    .menu {
+        display: block;
+        position: absolute;
+        right: 15px;
+        top: 20px;
+    }
+
+    .nav-list {
+        list-style-type: none;
+        width: 100%;
+        text-align: center;
+        padding-top: 10px;
+        display: none;
+
+    }
+
+    .nav-list .list-item {
+        display: block;
+        background-color: white;
+        color: #666;
+        border-bottom: 2px solid black(0,0,0,.03);
+        width: 80%;
+        float: right;
+        margin-right: 8%;
+    }
+    .tea{
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .img{
+        position: relative;
+        vertical-align: middle;
+        margin-left: 5px;
+    }
+    .logo{
+        float: left;
+    }
+
+    .active {
+        display: block;
+    }
+    .box1{
+        width: 90%;
+        display: center;
+    }
+    .search{
+        width: 90%;
+        display: center;
+    }
+    .request{
+        width: 90%;
+        display: center;
+    }
+    .apply{
+        width: 90%;
+        display: center;
+    }
+    .head{
+        width: 64%;
+        font-size: 16px;
+    }
+    .text{
+        width: 100%;
+    }
+    .text2{
+        font-size: 18px;
+    }
+    .fieldset{
+        margin-left: 716px;
+        margin-top: -451px;
+    }
+    .key{
+        margin-left: 20px;
+    }
+    .doc{
+        width: 100%;
+    }
+    .fan{
+        width: 100%;
+        margin-left: 36px;
+    }
+    .degree{
+        width: 25%;
+    margin-left: 638px;
+    margin-top: -346px;
+    }
+    .certificate{
+        width: 46%;
+    margin-left: 524px;
+    margin-top: -346px;
+    }
+    .ear{
+        width: 101%;
+    margin-left: 25px;
+    }
+    .nose{
+        width: 101%;
+    margin-left: 25px;
+    }
+    .pin{
+        width: 100%;
+       }
+       .mat{
+        width: 18%;
+        margin-left: 57px;
+       }
+       .img9{
+        width: 109%;
+       }
+       .footer{
+        width: 116%;
+       }
+    
+}
+@media all and (max-width:768px) {
+    .navbar {
+        flex-direction: column;
+        position: sticky;
+    }
+    .menu {
+        display: block;
+        position: absolute;
+        right: 15px;
+    }
+
+    .nav-list {
+        list-style-type: none;
+        width: 100%;
+        text-align: center;
+        display: none;
+
+    }
+
+    .nav-list .list-item {
+        display: block;
+        background-color: white;
+        color: #666;
+        border-bottom: 2px solid black(0,0,0,.03);
+        width: 80%;
+        float: right;
+        margin-right: 8%;
+        margin-top: -10px;
+    }
+    .tea{
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .img{
+        position: relative;
+        vertical-align: middle;
+        margin-left: 5px;
+    }
+    .logo{
+        float: left;
+    }
+
+    .active {
+        display: block;
+    }
+    .box1{
+        width: 100%;
+        border-radius: 15px;
+        display: center;
+        vertical-align: middle;
+    }
+    .search{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+    }
+    .request{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 10px;
+    }
+    .apply{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 10px;
+    }
+    .head{
+        width: 62%;
+    font-size: 17px;
+    }
+    .text2{
+        color: #373737;
+        font-size: 17px;
+    }
+    .fieldset{
+        margin-left: 588px;
+    margin-top:-414px;
+    }
+    .text{
+        width: 121%;
+    }
+    .eye{
+        margin-left: 46px;
+    }
+    .key{
+        margin-top: 87px;
+    margin-left: 50px;
+    }
+    .test7{
+        width: 51%;
+        margin-top: 10px;
+        margin-left: -10px;
+    }
+    .test7 img{
+        width: 28px;
+    }
+    .doc{
+        display: inline-block;
+    width: 23%;
+    margin-left: 12px;
+    }
+    .doc img{
+        width: 69%;
+        margin-left: 89px;
+    }
+    .fan{
+        width: 113%;
+    margin-left: 33px
+    }
+    .degree{
+        width: 25%;
+    margin-left: 638px;
+    margin-top: -346px;
+    }
+    .certificate{
+        width: 46%;
+        margin-left: 526px;
+        margin-top: -346px;
+       
+}
+.ear{
+    width: 109%;
+    margin-left: 37px;
+}
+.test{
+    width: 47%;
+    display: inline-block;
+}  
+.nose{
+    width: 109%;
+    margin-left: 37px;
+}
+.taste{
+    width: 47%;
+    display: inline-block;
+}  
+.pin{
+    width: 100%;
+   }
+   .watch1{
+    width: 100%;
+   }
+   .mat{
+    width: 22%;
+margin-left: 151px;
+   }
+   .img9{
+    width: 132%;
+   }
+   .footer{
+    width: 128%;
+    padding-left: 28px;
+   }
+   .footer-col ul input[type=text]{
+    width: 100%;
+}
+.footer-col ul input[type=button]{
+    width: 100%;
+}
+
+}
+
+
+@media all and (max-width:425px) {
+    .navbar {
+        flex-direction: column;
+        position: sticky;
+
+    }
+
+    .menu {
+        display: block;
+        position: absolute;
+        right: -320px;
+    }
+
+    .nav-list {
+        list-style-type: none;
+        width: 100%;
+        text-align: center;
+        display: none;
+
+    }
+
+    .nav-list .list-item {
+        display: block;
+        background-color: white;
+        color: #666;
+        border-bottom: 2px solid black(0,0,0,.03);
+        width: 80%;
+        float: right;
+        margin-right: -8%;
+        margin-top: -10px;
+    }
+    .box{
+        margin-left: 391px;
+    }
+    .tea{
+        font-size: 16px;
+        font-weight: 600;
+        margin-left: 287px;
+    }
+    .img{
+        position: relative;
+        vertical-align: middle;
+        margin-left: 5px;
+    }
+    .logo{
+        float: left;
+    }
+
+    .active {
+        display: block;
+    }
+    .box1{
+        width: 100%;
+        border-radius: 15px;
+        display: center;
+        vertical-align: middle;
+    }
+    .search{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+    }
+    .request{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 193px;
+    }
+    .apply{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 204px;
+    }
+    .head{
+        margin-left: 66px;
+        width: 177%;
+    font-size: 18px;
+    }
+    .text2{
+        color: #373737;
+        font-size: 17px;
+    }
+    .fieldset{
+        margin-left: 79px;
+    margin-top: 37px;
+    width: 76%;
+    }
+    .text{
+        width: 77%;
+    }
+    .test7{
+        width: 177%;
+        margin-top: -17px;
+        margin-left: 10px;
+        display: block;
+        font-size: 20px;
+    }
+    .test7 img{
+        width: 28px;
+    }
+    .key{
+        margin-bottom: 16px;
+    }
+    .doc{
+        display: block;
+        width: 100%;
+    }
+    .doc img{
+        width: 100%;
+     margin-left: 100px;
+    }
+    .fan{
+        width: 164%;
+    margin-left: 64px;
+    padding-right: 20px
+    }
+    .degree{
+        width: 100%;
+        margin-left: 186px;
+        margin-top: 54px;
+    }
+    .certificate{
+        width: 100%;
+        margin-left: 186px;
+        margin-top: 54px;
+    }
+    .ear{
+        width: 156%;
+        margin-left: 65px;
+        padding-left: 13px;
+    }
+    .test{
+        width: 86%;
+        display: block;
+    }
+    .box1{
+        width: 86%;
+    }
+    .taste{
+        width: 86%;
+        display: block;
+    } 
+    .pin{
+        width: 167%;
+    margin-left: 76px;
+       }
+       .watch1{
+        width: 167%;
+    margin-left: 76px;
+       }
+       .mat{
+        width: 60%;
+    margin-left: 198px;
+       }
+       .mat img{
+        width: 100%;
+       }
+       .boss{
+        width: 100%;
+       }
+       .boss1{
+        height:100%;
+       }
+       .img9{
+        width: 192%;
+       }
+       .footer{
+        width: 190%;
+       }
+       .footer-col ul input[type=text]{
+        width: 100%;
+    }
+    .footer-col ul input[type=button]{
+        width: 100%;
+    }
+
+}
+
+@media all and (max-width:375px) {
+    .navbar {
+        flex-direction: column;
+        position: sticky;
+
+    }
+
+    .menu {
+        display: block;
+        position: absolute;
+        right: -320px;
+    }
+
+    .nav-list {
+        list-style-type: none;
+        width: 100%;
+        text-align: center;
+        display: none;
+
+    }
+
+
+    .nav-list .list-item {
+        display: block;
+        background-color: white;
+        color: #666;
+        border-bottom: 2px solid black(0,0,0,.03);
+        width: 80%;
+        float: right;
+        margin-right: 8%;
+        margin-top: -10px;
+    }
+    .tea{
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .img{
+        position: relative;
+        vertical-align: middle;
+        margin-left: 5px;
+    }
+    .logo{
+        float: left;
+    }
+
+    .active {
+        display: block;
+    }
+    .box1{
+        width: 100%;
+        border-radius: 15px;
+        display: center;
+        vertical-align: middle;
+    }
+    .search{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+    }
+    .request{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 200px;
+    }
+    .apply{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 208px;
+    }
+    .head{
+        margin-left: 14px;
+        width: 177%;
+    font-size: 18px;
+    }
+    .text2{
+        color: #373737;
+        font-size: 17px;
+    }
+    .fieldset{
+        margin-left: 79px;
+    margin-top: 48px;
+    width: 76%;
+    }
+    .text{
+        width: 90%;
+    }
+    .key{
+        width: 100%;
+    }
+    .doc{
+        display: block;
+        width: 100%;
+    }
+    .doc img{
+        width: 100%;
+     margin-left: 100px;
+    }
+    .fan{
+        width: 164%;
+    margin-left: 33px;
+    padding-right: 20px
+    }
+    .degree{
+        width: 100%;
+        margin-left: 147px;
+        margin-top: 54px;
+    }
+    .certificate{
+        width: 100%;
+        margin-left: 147px;
+        margin-top: 54px;
+    }
+    .ear{
+        width: 148%;
+        margin-left: 65px;
+        padding-left: 13px;
+    }
+    .test{
+        width: 86%;
+        display: block;
+    }
+    .box1{
+        width: 86%;
+    }
+    .taste{
+        width: 86%;
+        display: block;
+    } 
+    .pin{
+        width: 156%;
+       }
+       .watch1{
+        width: 156%;
+       }
+       .mat{
+        width: 60%;
+    margin-left: 198px;
+       }
+       .mat img{
+        width: 100%;
+       }
+       .boss{
+        width: 100%;
+       }
+       .boss1{
+        height:100%;
+       }
+       .img9{
+        width: 192%;
+       }
+       .footer{
+        width: 184%;
+       }
+       .footer-col {
+        width: 100%;
+    }
+    .footer-col ul input[type=text]{
+        width: 100%;
+    }
+    .footer-col ul input[type=button]{
+        width: 100%;
+    }
+}
+
+@media all and (max-width:320px) {
+    .navbar {
+        flex-direction: column;
+        position: sticky;
+
+    }
+
+    .menu {
+        display: block;
+        position: absolute;
+        right: -320px;
+    }
+
+    .nav-list {
+        list-style-type: none;
+        width: 100%;
+        text-align: center;
+        display: none;
+
+    }
+
+
+    .nav-list .list-item {
+        display: block;
+        background-color: white;
+        color: #666;
+        border-bottom: 2px solid black(0,0,0,.03);
+        width: 80%;
+        float: right;
+        margin-right: 8%;
+        margin-top: -10px;
+    }
+    .tea{
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .img{
+        position: relative;
+        vertical-align: middle;
+        margin-left: 5px;
+    }
+    .logo{
+        float: left;
+    }
+
+    .active {
+        display: block;
+    }
+    .box1{
+        width: 100%;
+        border-radius: 15px;
+        display: center;
+        vertical-align: middle;
+    }
+    .search{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+    }
+    .request{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 10px;
+    }
+    .apply{
+        width: 70%;
+        display: center;
+        vertical-align: middle;
+        margin-left: 10px;
+    }
+    .text{
+        width: 100%;
+    }
+    .doc{
+        display: block;
+        width: 100%;
+    }
+    .doc img{
+        width: 100%;
+     margin-left: 100px;
+    }
+    .fan{
+        width: 164%;
+    margin-left: 33px;
+    padding-right: 20px
+    }
+    .degree{
+        width: 100%;
+        margin-left: 137px;
+        margin-top: 54px;
+    }
+    .certificate{
+        width: 100%;
+        margin-left: 137px;
+        margin-top: 54px;
+    }
+    .ear{
+        width: 154%;
+        margin-left: 25px;
+        padding-left: 13px;
+    }
+    .test{
+        width: 82%;
+        display: block;
+    }
+    .box1{
+        width: 86%;
+    }
+    .taste{
+        width: 85%;
+        display: block;
+    } 
+    .pin{
+        width: 162%;
+       }
+       .watch1{
+        width: 162%;
+       }
+       .mat{
+        width: 60%;
+    margin-left: 198px;
+       }
+       .mat img{
+        width: 100%;
+       }
+       .boss{
+        width: 100%;
+       }
+       .boss1{
+        height:100%;
+       }
+       .img9{
+        width: 199%;
+       }
+       .footer-col {
+        width: 100%;
+    }
+    .footer-col ul input[type=text]{
+        width: 100%;
+    }
+    .footer-col ul input[type=button]{
+        width: 100%;
+    }
+    .footer{
+        width: 189%;
+    }
+}
+@media(max-width:981px){
+    .footer-col {
+        width: 50%;
+        margin-bottom: 30px
+    } 
+    .footer-col ul input[type=text]{
+        width: 75%;
+    }
+    .footer-col ul input[type=button]{
+        width: 75%;
+    }
+}
+@media(max-width:479px){
+    .footer-col {
+        width: 100%;
+    }
+    .footer-col ul input[type=text]{
+        width: 46%;
+    }
+    .footer-col ul input[type=button]{
+        width: 51%;
+    }
+}
